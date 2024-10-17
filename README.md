@@ -1,1 +1,1 @@
-# three_js_project_one
+# getting-started-with-threejs
